@@ -8,7 +8,7 @@ The program asks for user input
 
 # YAK - 1
 
-<herd>.xml <T>
+`<herd>.xml <T>`
 
 # YAK - 2
 
